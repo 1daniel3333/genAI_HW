@@ -1,7 +1,7 @@
 Source:
 程式碼來源: https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php
 Get information from https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php
-在做對應修改
+再做對應修改
 
 課程:
 https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI
