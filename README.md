@@ -1,3 +1,7 @@
+---
+base_model: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+library_name: peft
+---
 Source:
 程式碼來源: https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php
 
@@ -17,3 +21,6 @@ https://www.youtube.com/playlist?list=PLJV_el3uVTsPz6CTopeRp2L2t4aL_KgiI
 keys = {
   'GEMINI_API_KEY': '這裡放入你的API Key',
 }
+### Framework versions
+
+- PEFT 0.15.2
