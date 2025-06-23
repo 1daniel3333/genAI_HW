@@ -4,7 +4,7 @@ This repository contains materials and solutions for the "Generative AI Introduc
 
 ## Course Information
   * **Course Website:** [https://speech.ee.ntu.edu.tw/\~hylee/genai/2024-spring.php](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
-
+  
 ## Setup
 
 Before running the code in this repository, please follow these steps:
@@ -40,24 +40,26 @@ This repository is organized by course assignments (HW) and personal projects.
 
 ### Course Assignments (HW)
 
-* **AI_HW3_calling_API:**
+* **AI\_HW3\_calling\_API:**
     * **Description:** Demonstrates how to link and interact with the Google Gemini API using Python to ask questions.
-* **AI\HW4\build_application:**
+* **AI\_HW4\_build\_application:**
     * **Description:** Focuses on building an application using Gemini with suitable prompts for answering mathematical questions.
-* **AI\HW5\fine\tune\model\to\poet:**
+* **AI\_HW5\_fine\_tune\_model\_to\_poet:**
     * **Description:** Explores fine-tuning a smaller language model (e.g., LLaMA) to generate poetry.
-* **AI\HW6\train\model\with\human\preference:**
+* **AI\_HW6\_train\_model\_with\_human\_preference:**
     * **Description:** Implements training a model based on different ratios of human preference data.
-* **AI\HW7\open\AI\brain:**
+* **AI\_HW7\_open\_AI\_brain:**
     * **Description:** Investigates LLMs as a series of probabilities, using heatmaps to visualize token probabilities.
-* **AI\HW8\avoid\AI\reply\harmful\information:**
+* **AI\_HW8\_avoid\_AI\_reply\_harmful\_information:**
     * **Description:** Addresses strategies and techniques to prevent AI models from generating harmful or inappropriate information to users.
-* **AI\HW9\video\to\text:**
+* **AI\_HW9\_video\_to\_text:**
     * **Description:** Develops a solution for transcribing a YouTube video into text.
 
 ### Personal Projects
 
-* **AI\RAG\introduction\of\dan:**
-    * **Description:** A personal project demonstrating the application of Retrieval-Augmented Generation (RAG) to introduce "Dan" without fine-tuning a model.
-* **Youtube\Translation:**
-    * **Description:** A personal project that uses a YouTube subscription list to retrieve videos, translate them into text, and summarize the content via email.
+  * **AI\_RAG\_introduction\_of\_dan:**
+      * **Description:** A personal project demonstrating the application of Retrieval-Augmented Generation (RAG) to introduce "Dan" without fine-tuning a model.
+  * **Youtube\_Translation:**
+      * **Description:** A personal project that uses a YouTube subscription list to retrieve videos, translate them into text, and summarize the content via email.
+
+-----
