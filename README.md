@@ -1,4 +1,4 @@
-# Generative AI Introduction 2024 - Course Assignments & Projects
+# Generative AI Introduction - Course Assignments & Projects
 
 This repository contains materials and solutions for the "Generative AI Introduction 2024" course.
 
